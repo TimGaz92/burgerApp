@@ -12,3 +12,4 @@ app.set("view engine", "handlebars");
 var routes = require("./controllers/controller.js");
 app.use("/", routes);
 app.listen(port);
+console.log("active on port " + port);
