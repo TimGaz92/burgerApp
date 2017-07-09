@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
   "author": "timgaz",
   "license": "ISC",
   "dependencies": {
@@ -15,5 +11,8 @@
     "express-handlebars": "^3.0.0",
     "method-override": "^2.3.9",
     "mysql": "^2.13.0"
-  }
+  },
+  "scripts": {
+  "start": "node server.js"
+     }
 }
