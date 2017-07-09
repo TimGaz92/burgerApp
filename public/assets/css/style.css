@@ -1,0 +1,36 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #777777;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+  color: white;
+}
+#maintitle{
+	color: yellow;
+}
+#subtitle{
+	color:yellow;
+}
+#quote{
+	color:red;
+}
+body{
+	color:white;
+	background-color: black
+}
+head{
+	background-color: black;
+}
